@@ -22,3 +22,6 @@
 [submodule "HabiVault-Arief"]
 	path = HabiVault-Arief
 	url = https://github.com/ariefff666/HabiVault-Final
+[submodule "LinguaPanel-Haikal"]
+	path = LinguaPanel-Haikal
+	url = https://github.com/FrxHaikalPlg/FinalProjectGDG
