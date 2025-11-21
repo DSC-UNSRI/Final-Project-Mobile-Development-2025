@@ -7,3 +7,6 @@
 [submodule "EcoTrack-Dayana"]
 	path = EcoTrack-Dayana
 	url = https://github.com/Dayana-K-H/EcoTrack-Application
+[submodule "EspressYoSelf-Rizki"]
+	path = EspressYoSelf-Rizki
+	url = https://github.com/rizkisepriadi/Express_yo_self_Final_Project
