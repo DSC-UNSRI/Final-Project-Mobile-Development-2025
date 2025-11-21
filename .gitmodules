@@ -25,3 +25,6 @@
 [submodule "LinguaPanel-Haikal"]
 	path = LinguaPanel-Haikal
 	url = https://github.com/FrxHaikalPlg/FinalProjectGDG
+[submodule "NutriSight-Abel"]
+	path = NutriSight-Abel
+	url = https://github.com/FarhanAbelRantisi/NutriSight-App
