@@ -16,3 +16,6 @@
 [submodule "GreenTasker-Bintara"]
 	path = GreenTasker-Bintara
 	url = https://github.com/jazhardcore7/green-tasker
+[submodule "GymBros-Suheil"]
+	path = GymBros-Suheil
+	url = https://github.com/MuhammadSuheil/GymBros
