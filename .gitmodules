@@ -13,3 +13,6 @@
 [submodule "ForgetMeNot-Fachry"]
 	path = ForgetMeNot-Fachry
 	url = https://github.com/githubbingry/FinalProjectGDG
+[submodule "GreenTasker-Bintara"]
+	path = GreenTasker-Bintara
+	url = https://github.com/jazhardcore7/green-tasker
