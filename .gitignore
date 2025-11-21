@@ -1,0 +1,4 @@
+.vscode/
+google-services.json
+.env
+encryption_key.json
