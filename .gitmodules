@@ -4,3 +4,6 @@
 [submodule "BluBlu-Najwa"]
 	path = BluBlu-Najwa
 	url = https://github.com/najwaainayah/Final-Project
+[submodule "EcoTrack-Dayana"]
+	path = EcoTrack-Dayana
+	url = https://github.com/Dayana-K-H/EcoTrack-Application
