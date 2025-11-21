@@ -19,3 +19,6 @@
 [submodule "GymBros-Suheil"]
 	path = GymBros-Suheil
 	url = https://github.com/MuhammadSuheil/GymBros
+[submodule "HabiVault-Arief"]
+	path = HabiVault-Arief
+	url = https://github.com/ariefff666/HabiVault-Final
