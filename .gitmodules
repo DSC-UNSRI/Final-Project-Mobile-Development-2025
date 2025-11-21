@@ -1,3 +1,6 @@
 [submodule "Askmedia-Syakillah"]
 	path = Askmedia-Syakillah
 	url = https://github.com/Chwakillah/askmedia-id
+[submodule "BluBlu-Najwa"]
+	path = BluBlu-Najwa
+	url = https://github.com/najwaainayah/Final-Project
