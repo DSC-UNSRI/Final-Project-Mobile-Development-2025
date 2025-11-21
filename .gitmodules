@@ -10,3 +10,6 @@
 [submodule "EspressYoSelf-Rizki"]
 	path = EspressYoSelf-Rizki
 	url = https://github.com/rizkisepriadi/Express_yo_self_Final_Project
+[submodule "ForgetMeNot-Fachry"]
+	path = ForgetMeNot-Fachry
+	url = https://github.com/githubbingry/FinalProjectGDG
